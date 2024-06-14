@@ -1,0 +1,83 @@
+  <!-- <section class="footer">
+        <h4>
+            About Us
+        </h4>
+        <p class="content"> Course Registration process is designed to be hassle-free and efficient, ensuring that you have a smooth experience from enrollment to starting your educational journey. We value your time and aim to simplify the process, allowing you to focus on what truly matters – your education and growth.</p>
+        <p>
+            Copyright &#169 mariyammathul-samla | All Rights Reserved | Designed by:sdmit
+        </p>
+        <div class="icons">
+            <i class="fa fa-twitter"></i>
+
+            <i class="fa fa-instagram"></i>
+            <i class="fa fa-linkedin"></i>
+            <i class="fa fa-envelope"></i>
+        </div>
+        <p>Made with <i class="fa fa-heart-o"></i> By Samla</p>
+
+    </section> -->
+
+     <!-- <div class="row">
+            <div class="course-column">
+
+                <h3 style=" font-size: 20px;">Non-Conventional Energy Sources(18ME651)</h3>
+                <p>Tap To Know More </p>
+                <div class="layer">
+                    <p> comprehensive study of alternative and renewable energy technologieswith a focus on their practical applications and environmental impact.
+                    </p>
+                </div>
+
+            </div>
+            <div class="course-column">
+                <h3 style=" font-size: 20px;">Remote Sensing and GIS (18CV651)</h3>
+                <p>Tap To Know More </p>
+                <div class="layer">
+                    <p>Delve into geospatial data analysis and mapping techniques in the Remote Sensing and GIS course (18CV651).
+                    </p>
+                </div>
+            </div>
+            <div class="course-column">
+                <h3 style=" font-size: 20px;">Introduction to Operating Systems (18CS656)</h3>
+                <p>Tap To Know More </p>
+                <div class="layer">
+                    <p>Get acquainted with fundamental concepts of operating systems in the course Introduction to Operating Systems (18CS656).
+                    </p>
+                </div>
+            </div>
+        </div> -->
+        <!-- <div class="row">
+            <div class="course-column">
+                <h3 style=" font-size: 20px;">PLC and SCADA (18EE652)</h3>
+                <p>Tap To Know More </p>
+                <div class="layer">
+                    <p>Explore industrial automation through PLC and SCADA systems in the course 18EE652."
+                    </p>
+                </div>
+            </div>
+            <div class="course-column">
+                <h3 style=" font-size: 20px;">Renewable Energy Sources (18EE653)</h3>
+                <p>Tap To Know More </p>
+                <div class="layer">
+                    <p>Dive into the world of sustainable energy technologies in the course Renewable Energy Sources (18EE653)
+                    </p>
+                </div>
+            </div>
+            <div class="course-column">
+                <h3 style=" font-size: 20px;">Basic VLSI Design (18EC655)</h3>
+                <p>Tap To Know More </p>
+                <div class="layer">
+                    <p>Discover the essentials of VLSI chip design in the course Basic VLSI Design (18EC655)
+                    </p>
+                </div>
+            </div>
+        </div> -->
+
+         <!-- <div class="charts-card">
+            <p class="chart-title">Top 5 Courses</p>
+            <div id="bar-chart"></div>
+          </div>
+
+          <div class="charts-card">
+            <p class="chart-title">Purchase and Sales Orders</p>
+            <div id="area-chart"></div>
+          </div> -->
