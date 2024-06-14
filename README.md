@@ -46,10 +46,10 @@ Open your web browser and navigate to `http://localhost:3000` to access the appl
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](Screenshots/home.jpg)
 
 ### Course Registration
-![Course Registration](screenshots/course-registration.png)
+![Course Registration](Screenshots/reg.jpg)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](Screenshots/admin.jpg)
